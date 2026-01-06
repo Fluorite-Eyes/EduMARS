@@ -1,4 +1,3 @@
-EDUMARS
 <div align="center">
   <img src="Logo.png" width="300" alt="EduMARS Logo">
   <h1>EduMARS: A Multimodal Benchmark for Rubric-aligned Evaluation</h1>
