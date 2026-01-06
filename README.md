@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Logo.png" width="300" alt="EduMARS Logo">
+  <img src="logo.jpg" width="300" alt="EduMARS Logo">
   <h1>EduMARS: A Multimodal Benchmark for Rubric-aligned Evaluation</h1>
   <h3>Realistic, Cognitively Demanding, K-12 Student Answer Grading</h3>
 </div>
